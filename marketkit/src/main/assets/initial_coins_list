@@ -9523,7 +9523,7 @@ INSERT INTO Coin VALUES('nft-art-finance','NFT Art Finance','NFTART',2938,'nft-a
 INSERT INTO Coin VALUES('muse-2','Muse','MUSE',1408,'muse-2','https://assets.coingecko.com/coins/images/13230/large/muse_logo.png');
 INSERT INTO Coin VALUES('nest','Nest Protocol','NEST',1266,'nest','https://assets.coingecko.com/coins/images/11284/large/52954052.png');
 INSERT INTO Coin VALUES('nebulas','Nebulas','NAS',3451,'nebulas','https://assets.coingecko.com/coins/images/2431/large/193394331.png');
-INSERT INTO Coin VALUES('bolo-token','Bolo Token','BOLO',null,'bolo-token','https://i.ibb.co/BTthYft/BOLO.png');
+INSERT INTO Coin VALUES('bolo-token','BoloToken','BOLO',null,'bolo-token','https://i.ibb.co/BTthYft/BOLO.png');
 INSERT INTO Coin VALUES('oddz','Oddz','ODDZ',2756,'oddz','https://assets.coingecko.com/coins/images/14421/large/NewLogo.png');
 INSERT INTO Coin VALUES('nervenetwork','NerveNetwork','NVT',1885,'nervenetwork','https://assets.coingecko.com/coins/images/11873/large/NerveNetwork.png');
 INSERT INTO Coin VALUES('nxt','NXT','NXT',2764,'nxt','https://assets.coingecko.com/coins/images/6/large/nxt.png');
