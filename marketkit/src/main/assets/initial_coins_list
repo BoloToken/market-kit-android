@@ -12,7 +12,7 @@ INSERT INTO BlockchainEntity VALUES('platincoin','PlatinCoin',null);
 INSERT INTO BlockchainEntity VALUES('stealthcoin','Stealth',null);
 INSERT INTO BlockchainEntity VALUES('stratis','Stratis',null);
 INSERT INTO BlockchainEntity VALUES('aptos','Aptos',null);
-INSERT INTO BlockchainEntity VALUES('bolo-token','Bolo Token',null);
+INSERT INTO BlockchainEntity VALUES('bolo-token','BoloToken',null);
 INSERT INTO BlockchainEntity VALUES('helio','Helio',null);
 INSERT INTO BlockchainEntity VALUES('nuls','Nuls',null);
 INSERT INTO BlockchainEntity VALUES('whitebit','WhiteBIT Token',null);
